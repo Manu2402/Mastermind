@@ -1,0 +1,15 @@
+Resolution: 49x38
+
+Pivot: (45, 18)
+
+Coordinates (x, y):
+
+-Hand 0: (89, 65)
+-Hand 1: (89, 134)
+-Hand 2: (89, 205)
+-Hand 3: (89, 274)
+-Hand 4: (89, 344)
+-Hand 5: (89, 414)
+-Hand 6: (89, 485)
+-Hand 7: (89, 556)
+-Hand 8: (89, 627)

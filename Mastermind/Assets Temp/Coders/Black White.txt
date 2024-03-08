@@ -1,0 +1,60 @@
+Resolution: 26x26
+
+Pivot: (0, 0)
+
+ORIENTATING: Right-Down
+Coordinates (x, y):
+
+TRACKER 0:
+- Block 0: (415, 38)
+- Block 1: (444, 38)
+- Block 2: (415, 67)
+- Block 3: (444, 67)
+
+TRACKER 1:
+- Block 0: (415, 107)
+- Block 1: (444, 107)
+- Block 2: (415, 133)
+- Block 3: (444, 133)
+
+TRACKER 2:
+- Block 0: (415, 178)
+- Block 1: (444, 178)
+- Block 2: (415, 207)
+- Block 3: (444, 207)
+
+TRACKER 3:
+- Block 0: (415, 247)
+- Block 1: (444, 247)
+- Block 2: (415, 276)
+- Block 3: (444, 276)
+
+TRACKER 4:
+- Block 0: (415, 317)
+- Block 1: (444, 317)
+- Block 2: (415, 346)
+- Block 3: (444, 346)
+
+TRACKER 5:
+- Block 0: (415, 387)
+- Block 1: (444, 387)
+- Block 2: (415, 416)
+- Block 3: (444, 416)
+
+TRACKER 6:
+- Block 0: (415, 458)
+- Block 1: (444, 458)
+- Block 2: (415, 487)
+- Block 3: (444, 487)
+
+TRACKER 7:
+- Block 0: (415, 529)
+- Block 1: (444, 529)
+- Block 2: (415, 558)
+- Block 3: (444, 558)
+
+TRACKER 8:
+- Block 0: (415, 600)
+- Block 1: (444, 600)
+- Block 2: (415, 629)
+- Block 3: (444, 629)

@@ -1,0 +1,5 @@
+Resolution 232x47
+
+Pivot (0, 0)
+
+Coordinates (x, y) (535, 577)

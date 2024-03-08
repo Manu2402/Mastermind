@@ -1,0 +1,7 @@
+Resolution:  68x83
+
+Pivot: (0, 0)
+
+Orientating: Right-Down
+
+Coordinates (x, y): (407, 677)

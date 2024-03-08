@@ -1,0 +1,67 @@
+Resolution: 45x45
+
+Pivot: (0, Height * 0.5)
+
+Orientating: Right-Down
+
+Coordinates (x, y):
+
+LINE HIDDEN CODE:
+-Body 0: (108, 719)
+-Body 1: (178, 719)
+-Body 2: (248, 719)
+-Body 3: (318, 719)
+
+LINE 0:
+-Body 0: (108, 65)
+-Body 1: (178, 65)
+-Body 2: (248, 65)
+-Body 3: (318, 65)
+
+LINE 1:
+-Body 0: (108, 134)
+-Body 1: (178, 134)
+-Body 2: (248, 134)
+-Body 3: (318, 134)
+
+LINE 2:
+-Body 0: (108, 205)
+-Body 1: (178, 205)
+-Body 2: (248, 205)
+-Body 3: (318, 205)
+
+LINE 3:
+-Body 0: (108, 274)
+-Body 1: (178, 274)
+-Body 2: (248, 274)
+-Body 3: (318, 274)
+
+LINE 4:
+-Body 0: (108, 344)
+-Body 1: (178, 344)
+-Body 2: (248, 344)
+-Body 3: (318, 344)
+
+LINE 5:
+-Body 0: (108, 414)
+-Body 1: (178, 414)
+-Body 2: (248, 414)
+-Body 3: (318, 414)
+
+LINE 6:
+-Body 0: (108, 485)
+-Body 1: (178, 485)
+-Body 2: (248, 485)
+-Body 3: (318, 485)
+
+LINE 7:
+-Body 0: (108, 556)
+-Body 1: (178, 556)
+-Body 2: (248, 556)
+-Body 3: (318, 556)
+
+LINE 8:
+-Body 0: (108, 627)
+-Body 1: (178, 627)
+-Body 2: (248, 627)
+-Body 3: (318, 627)
