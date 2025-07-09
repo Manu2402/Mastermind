@@ -8,3 +8,8 @@ Mastermind is a game in which a player must guess, through a series of attempts,
 
 ## Screenshots
 Below you will find a series of screenshots of the game. I recommend that you try it out to get the full experience.
+
+![1](https://github.com/user-attachments/assets/e3525724-13c1-4923-b714-6b675bca65db)
+![2](https://github.com/user-attachments/assets/ec460ef9-0205-4cdf-8213-c02555586366)
+
+
