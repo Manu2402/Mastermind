@@ -1,7 +1,0 @@
-Resolution:  40x40
-
-Pivot: (0, Height * 0.5)
-
-Orientating: Right-Down
-
-Coordinates (x, y): Same as Codes

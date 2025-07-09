@@ -1,7 +1,0 @@
-Resolution: 51x51
-
-Pivot: (0.036, Height * 0.5)
-
-Orientating: Right-Down
-
-Coordinates (x, y): Same as Codes

@@ -1,5 +1,0 @@
-Resolution: 180x65
-
-Pivot: (0, 0)
-
-Coordinates (x, y): (561, 687)
