@@ -5,6 +5,7 @@ Mastermind is a game in which a player must guess, through a series of attempts,
 
 ## Development
 Mastermind was developed through the C# language and a graphics library, based on OpenGL, called “Aiv.Fast2D”.
+This project was developed to test the skills acquired throughout the first year of the “Video Game Programming” course at AIV (Accademia Italiana dei Videogiochi)
 
 ## Download
 At this link you'll download Mastermind. <br>
